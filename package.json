@@ -1,0 +1,14 @@
+{
+    "private": true,
+    "workspaces": [
+        "gatsby-theme-events",
+        "site"
+    ],
+    "dependencies": {
+        "@emotion/react": "^11.4.0",
+        "@emotion/styled": "^11.3.0",
+        "gatsby-plugin-emotion": "^6.6.0",
+        "gatsby-plugin-theme-ui": "^0.9.1",
+        "theme-ui": "^0.9.1"
+    }
+}

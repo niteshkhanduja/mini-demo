@@ -1,0 +1,5 @@
+
+    const cmd = require("/home/hp/Desktop/Zensar/mini-demo/node_modules/gatsby/dist/commands/develop-process.js");
+    const args = {"_":["develop"],"verbose":false,"no-color":false,"no-colors":false,"noColors":false,"noColor":false,"json":false,"H":"localhost","host":"localhost","p":"8000","port":37153,"c":"","cert-file":"","certFile":"","k":"","key-file":"","keyFile":"","ca-file":"","caFile":"","graphql-tracing":false,"graphqlTracing":false,"$0":"gatsby","directory":"/home/hp/Desktop/Zensar/mini-demo/gatsby-theme-events","browserslist":[">0.25%","not dead"],"sitePackageJson":{"name":"gatsby-theme-events","version":"1.0.0","license":"MIT","main":"index.js","scripts":{"build":"gatsby build","develop":"gatsby develop","clean":"gatsby clean"},"peerDependencies":{"gatsby":"^3.6.1","react":"^17.0.2","react-dom":"^17.0.2"},"devDependencies":{"gatsby":"^3.6.1","react":"^17.0.2","react-dom":"^17.0.2"},"dependencies":{"gatsby-source-filesystem":"^3.6.0","gatsby-transformer-yaml":"^3.6.0"}},"report":{"errorMap":{}},"useYarn":false,"proxyPort":8000,"ssl":null,"debugInfo":null};
+    cmd(args);
+  
