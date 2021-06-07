@@ -6,7 +6,8 @@ const underline = css`
   text-decoration: underline;
   `
 const redText =css`
-color: red
+color:red
+
 `
 
 const Event = ({name,location,url,startDate,endDate}) => {

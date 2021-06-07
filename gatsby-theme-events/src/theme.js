@@ -1,4 +1,4 @@
-export const theme ={
+export default{
     space:[0,4,8,16,32],
     fonts:{
         body:'Roboto'
