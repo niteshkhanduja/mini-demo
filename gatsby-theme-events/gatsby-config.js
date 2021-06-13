@@ -1,6 +1,7 @@
 module.exports =({contentPath ='data',basepath='/'})=>({
     plugins: [
         `gatsby-plugin-emotion`,
+      
         // {
         //     resolve: `gatsby-plugin-theme-ui`,
         //     // options: {
