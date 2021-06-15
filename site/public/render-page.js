@@ -7801,24 +7801,24 @@ function combine (array, callback) {
 /***/ }),
 
 /***/ "react-dom/server":
-/*!*************************************************************************************!*\
-  !*** external "/home/hp/Desktop/Zensar/mini-demo/node_modules/react-dom/server.js" ***!
-  \*************************************************************************************/
+/*!******************************************************************************!*\
+  !*** external "/home/hp/Desktop/mini-demo/node_modules/react-dom/server.js" ***!
+  \******************************************************************************/
 /***/ ((module) => {
 
 "use strict";
-module.exports = require("/home/hp/Desktop/Zensar/mini-demo/node_modules/react-dom/server.js");;
+module.exports = require("/home/hp/Desktop/mini-demo/node_modules/react-dom/server.js");;
 
 /***/ }),
 
 /***/ "react":
-/*!********************************************************************************!*\
-  !*** external "/home/hp/Desktop/Zensar/mini-demo/node_modules/react/index.js" ***!
-  \********************************************************************************/
+/*!*************************************************************************!*\
+  !*** external "/home/hp/Desktop/mini-demo/node_modules/react/index.js" ***!
+  \*************************************************************************/
 /***/ ((module) => {
 
 "use strict";
-module.exports = require("/home/hp/Desktop/Zensar/mini-demo/node_modules/react/index.js");;
+module.exports = require("/home/hp/Desktop/mini-demo/node_modules/react/index.js");;
 
 /***/ })
 

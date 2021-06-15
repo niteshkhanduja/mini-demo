@@ -4,7 +4,7 @@ module.exports={
           resolve:'gatsby-theme-events',
           options:{
               contentPath:'events',
-              basePath:'/events'
+              basePath:'/'
           }
       }
 
